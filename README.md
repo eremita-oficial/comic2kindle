@@ -18,7 +18,7 @@ The application provides a complete workflow for preparing your digital comics f
 
 *Plugin preview*
 ![Kindle Paperwhite](comic2kindle_paperwhite.jpg)
-![Kindle Colorsoft](comic2kindle_colorsoft)
+![Kindle Colorsoft](comic2kindle_colorsoft.jpg)
 
 ## Download
 
