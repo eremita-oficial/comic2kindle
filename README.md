@@ -117,9 +117,8 @@ pip install pillow opencv-python numpy reportlab img2pdf
 
 ---
 
-## License
+### License
 
-**comic2kindle** is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) License.
----
+<b>comic2kindle</b> is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en) License.
 
 *Made with ❤️ for comic lovers and Kindle readers everywhere.*
