@@ -57,19 +57,19 @@ Obtenha as versões mais recentes na [página de download](https://github.com/er
   - **macOS**: `brew install unrar`
   - **Windows**: Instale WinRAR ou 7-Zip e adicione ao PATH
 
-### A partir do código-fonte
+## A partir do código-fonte
 
-# Clone o repositório
+### Clone o repositório
 git clone https://github.com/yourusername/comic2kindle.git
 cd comic2kindle
 
-# Instale as dependências
+### Instale as dependências
 pip install -r requirements.txt
 
-# Execute o aplicativo
+### Execute o aplicativo
 python gui.py
 
-# Dependências
+## Dependências
 
 pip install pillow opencv-python numpy reportlab img2pdf
 
