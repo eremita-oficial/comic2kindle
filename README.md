@@ -92,7 +92,7 @@ pip install pillow opencv-python numpy reportlab img2pdf
 2. **Import your comic**: Click `File → Open Folder`, `Open CBR`, or `Open CBZ`
 3. **Edit pages** (optional):
    - Use `Detect Margins` for auto-cropping
-   - Mark pages as `Capa` (Cover) or `Página Inteira` (Full Page)
+   - Mark pages as `Cover` or `Full Page`
    - Manually crop pages with the visual editor
 4. **Export to PDF**: Select `Export PDF (3 panels)` or `Export PDF (full pages)`
 5. **Add metadata**: Enter title and author when prompted
