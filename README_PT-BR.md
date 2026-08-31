@@ -1,8 +1,8 @@
-# comic2kindle
+<p align="center"><img src="https://github.com/eremita-oficial/comic2kindle/blob/main/comic2kindle.png" width="200" height="auto"></p>
+<h1 align="center"><b>comic2kindle</b></h1>
+<h4 align="center">Um conversor de quadrinhos para PDF otimizado para dispositivos Kindle</h4>
 
-**comic2kindle** - Um conversor de quadrinhos para PDF otimizado para dispositivos Kindle.
-
----
+<p align="center">* * *</p>
 
 ## O que ele faz
 
