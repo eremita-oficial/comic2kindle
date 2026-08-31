@@ -1,8 +1,15 @@
-# comic2kindle
+<p align="center"><img src="https://github.com/eremita-oficial/comic2kindle/blob/main/comic2kindle.png" width="200" height="auto"></p>
+<h1 align="center"><b>comic2kindle</b></h1>
+<h4 align="center">A comic to PDF converter optimized for Kindle devices.</h4>
 
-**comic2kindle** - A comic to PDF converter optimized for Kindle devices.
+</p>
 
----
+<div align="center">
+
+**Português**: [*PT-BR*](https://github.com/eremita-oficial/comic2kindle/blob/main/README_PT-BR.md)
+
+**•**
+</div>
 
 ## What it does
 
