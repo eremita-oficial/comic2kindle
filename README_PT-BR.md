@@ -59,7 +59,6 @@ Obtenha as versões mais recentes na [página de download](https://github.com/er
 
 ### A partir do código-fonte
 
-```bash
 # Clone o repositório
 git clone https://github.com/yourusername/comic2kindle.git
 cd comic2kindle
@@ -71,9 +70,8 @@ pip install -r requirements.txt
 python gui.py
 
 # Dependências
-```bash
-pip install pillow opencv-python numpy reportlab img2pdf
 
+pip install pillow opencv-python numpy reportlab img2pdf
 
 ---
 
